@@ -1,3 +1,3 @@
-Contanct me in:<br>
+Contact me in:<br>
  - Telegram: @xmdnusr
- - VK: xmdnr
+ - VK: xmdnusr
