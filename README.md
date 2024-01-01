@@ -1,10 +1,26 @@
-# hi, i'm xmdn
-Projects:
-- [rabbitGram Desktop][rabbitgramdesktop]
-- [rabbitPasser][rabbitpasser]
-- [XSchoolHelper][xschoolhelper]
-- [md3web][md3web] (made on pure CSS)
-- StupidWallet Android app (ft. Tr3ble)
+# /// xmdnusr
+
+```python
+info = {
+    "name": "Iaroslav",
+    "nickname": "xmdn",
+    "age": 15,
+
+    "irl_languages":
+        ["russian", "english", "german"],
+
+    "programming_languages":
+        ["python", "c", "cpp",
+        "java", "kotlin (a bit)"],
+
+    "projects": [
+        ["rabbitGram Desktop",
+        "rabbitPasser",
+        "XSchoolHelper",
+        "md3web (made on pure css)",
+        "Stupid Wallet"]
+}
+```
 
 Have any questions? Contact me in:
 
