@@ -4,10 +4,10 @@
 info = {
     "name": "Iaroslav",
     "nickname": "xmdn",
-    "age": 15,
+    "age": 16,
 
     "irl_languages":
-        ["russian", "english", "german"],
+        ["russian", "english", "deutsch"],
 
     "programming_languages":
         ["python", "c", "cpp",
@@ -18,7 +18,7 @@ info = {
         "rabbitPasser",
         "XSchoolHelper",
         "md3web (made on pure css)",
-        "Stupid Wallet"]
+        "(hidden)WAV"]
 }
 ```
 
